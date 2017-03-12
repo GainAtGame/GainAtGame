@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Portfolio Item (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #484848;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#play-button,#play-button:active{
+	width: 100%;
+	border-color: #FFC107;
+}
+
+#play-button:hover {
+	background-color: #EBAD07;
+	border-color: #EBAD07;
+}
+
+.btn-form-active {
+	background-color: #FFC107 !important;
+	border-color: #FFC107 !important;	
+}
+
+.btn-group .btn-default:hover {
+	background-color: #B1B6E9;
+	border-color: #B1B6E9;
+}
+
+.btn-default:focus {
+	background-color: #FFC107;
+	border-color: #FFC107;
+}
+
